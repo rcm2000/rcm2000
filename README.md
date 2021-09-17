@@ -1,5 +1,6 @@
 ## Machine Learning 머린이
 
+* 개인 포트폴리오 사이트 : 바로가기[https://rcm2000.github.io/]
 * 경희대학교 기계공학과 졸업
 * Python / SQL / Pandas / Numpy / Sklearn / Tableau
 * 머신러닝 인공지능 엔지니어를 꿈꾸는 머린이입니다😊.
